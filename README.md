@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christopher
+- 👋 Hi, I’m Christopher, a Front-End Developer
 - 👀 I’m interested in always learning new things whether within code or outside. 
 - 🌱 I’m currently learning JS Node and python!
 - 💞️ I’m looking to land my first Front-End developer role and gain a whole new level to my knowledge!
