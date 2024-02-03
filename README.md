@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Christopher, a Front-End Developer
+- 👋 Hi, I’m Christopher, a Software Developer. 
 - 👀 I’m interested in always learning new things whether within code or outside. 
-- 🌱 I’m currently learning JS Node and python!
-- 💞️ I’m looking to land my first Front-End developer role and gain a whole new level to my knowledge!
+- 🌱 I’m currently learning C# and .NET.
+- 💞️ I’m looking to build my first C# project to build my understanding of Back-End developement.
 - 📫 How to reach me ... via email or if you look at my portfolio you'll find my contact details there. The link is under my profile picture!
 
 <!---
