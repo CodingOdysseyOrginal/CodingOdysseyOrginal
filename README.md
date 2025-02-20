@@ -1,6 +1,6 @@
 # Hello World! I'm Christopher O'Connor, a Full-Stack Developer 👋🏼
 
-🚀 Currently studying at the School of Code while deepening my backend expertise.<br>👨‍💻 Former pub manager and martial arts instructor, now thriving in software development.<br>🌱 Passionate about DevOps, cloud computing, and backend technologies.<br>🛠️ Leading a team of developers outside of the course to build innovative projects.
+🚀 Currently studying at the School of Code while deepening my knowledge of full-stack development.<br>👨‍💻 Former pub manager and martial artist, now thriving in software development.<br>🌱 Passionate about DevOps, cloud computing, and backend technologies.<br>🛠️ Leading a team of developers outside of the course to build innovative projects.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
